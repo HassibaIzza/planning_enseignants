@@ -1,0 +1,125 @@
+Bahri Sidi Mohamed <bahrisidimohamed@gmail.com>,
+Djillali Bouagada <bouagadadj@yahoo.fr>,
+DAHMANI Zoubir <zzdahmani@yahoo.fr>,
+Hocine Ablaoui <ablaouihocine@yahoo.fr>,
+Lakhal Belarbi <lakehalbelarbi@gmail.com>,
+Ahmed Medeghri <ahmed_medeghri@yahoo.com>,
+Amir Abdessamad <amirabdessamad@yahoo.fr>,
+Soumia Ould Ali <belmsou@yahoo.fr>,
+Hafida Bendahmane <bendahmanehafida@yahoo.fr>,
+Benharrat Belaidi <belaidibenharrat@yahoo.fr>,
+khira limam <limam_khira@yahoo.fr>,
+Naima Ablaoui Lahmar <lahmarnaima@yahoo.fr>,
+Mansoria Saidani <saidaniman@yahoo.fr>,
+Mohand Ouldali2 <mohand_ouldalidz@yahoo.fr>,
+Hamid Bouzit <hamid.bouzit@yahoo.fr>,
+Mustapha Mohammedi <mustapha.mohammedi@gmail.com>,
+Mohammed Kaid   <mohammed.kaid@yahoo.com>,
+Diala Horiya <diala_math@yahoo.fr>,
+Maamar Andasmas <maamaths73@yahoo.fr>,
+Bekkouche Zakaria < bekkouche_zakaria@yahoo.com >
+Benmeghnia Naima  <naimabenmaghnia@yahoo.fr >
+Bendoukha <bbendoukha@gmail.com>, 
+Houari Fettouch <fettouch72@yahoo.fr>,
+Zineb Kaisserli <z.kaisserli@gmail.com>,
+Sabrina Taf <sabrina481@hotmail.fr>,
+fethihammou73@gmail.com
+Amina Ferraoun <aferraoun@yahoo.fr>,
+Tabharit Louiza <lz.tabharit@yahoo.fr>,
+Rabab Bouabdelli <bouabdelli.rabab@gmail.com>,
+belhamiti omar <belhamitio@yahoo.fr>,
+Abdallah Menad <abdallah_menad@yahoo.com>,
+Bouzid Leila <bouzid-89@hotmail.fr>,
+Oussama Bouanani <bouananio70@gmail.com>,
+Houria Ali Merina <alimerinaho@yahoo.fr>,
+Zinelaabidine LATREUCH <zlatreuch@gmail.com>,
+ghezzar amine <ghezzar.amine@gmail.com>,
+ Maghnia Hamou Maamar <hamou1maamar1maghnia@yahoo.fr>,
+Djemia Bensikaddour <bensikaddour@yahoo.fr>,
+Djemia Bensikaddour < md.bensikaddour@gmail.com>,
+Bendoukha Berrabah <bbendoukha@gmail.com>,
+Djemia Bensikaddour <md.bensikaddour@gmail.com>, 
+Khadidja Bechaoui <bechaoui.khadidja@yahoo.com>,
+ghezzar.amine@gmail.com
+reda.djebbara@gmail.com
+abdessamad.amir@univ-mosta.dz
+abellah.menad@univ-mosta.dz
+hocine.ablaoui@univ-mosta.dz
+naima.ablaoui@univ-mosta.dz
+amina.ferraoun@univ-mosta.dz 
+maamar.andasmas@univ-mosta.dz
+sidimohamed.bahri@univ-mosta.dz
+lakehal.belarbi@univ-mosta.dz
+omar.belhamiti@univ-mosta.dz
+hafida.bendahmane@univ-mosta.dz
+benharrat.belaidi@univ-mosta.dz
+hamid.bouzit@univ-mosta.dz 
+zoubir.dahmani@univ-mosta.dz
+ djillali.bouagada@univ-mosta.dz
+horiya.diala@univ-mosta.dz
+  houari.fettouch@univ-mosta.dz
+ alimerina.houria@univ-mosta.dz
+ mohammed.kaid@univ-mosta.dz
+oussama.bouanani@univ-mosta.dz
+  limam.univ.mosta@gmail.com 
+ kheira.limam@univ-mosta.dz 
+louiza.tabharit@univ-mosta.dz
+maghnia.hamoumaamar@gmail.com 
+ahmed.medeghri@univ-mosta.dz  
+mustapha.mohammedi@univ-mosta.dz
+ mohand.ouldali@univ-mosta.dz  
+reda.djebbara@gmail.com 
+mansouria.saidani@univ-mosta.dz 
+ soumia.belmouhoub@univ-mosta.dz 
+zinelaabidine.latreuch@univ-mosta.dz
+djemaia.bensikaddour@univ-mosta.dz 
+zineb.kaisserli@univ-mosta.dz
+laid.djilali@univ-mosta.dz
+khadidja.bechaoui@univ-mosta.dz 
+sabrina.taf@univ-mosta.dz 
+
+
+
+bouabdelli.rabab@gmail.com 
+sabrinataf3@gmail.com 
+
+…………………………………………………………………………………………………………...
+
+lazergui.souad@univ-mosta.dz
+Benzidane <aekm27@yahoo.fr>
+amele.taieb@univ-mosta.dz
+
+amele.taieb@univ-mosta.dz
+fouad.henni@univ-mosta.dz 
+fouad.henni@univ-mosta.dz
+
+
+
+
+
+
+
+
+
+
+INSERT INTO `ge_enseignants` (`enseignant_id`, `departement_id`, `enseignant_prenom`, `enseignant_nom`, `enseignant_birthday`, `enseignant_email`, `enseignant_phone`, `enseignant_civilite`, `enseignant_grade`) VALUES
+('', 1, 'Sidi Mohamed', 'Bahri', '1-1-1994', 'bahrisidimohamed@gmail.com', '+21350000000', 'Mr', ''),
+('', 1, 'Djillali', 'Bouagada', '1-1-1994', 'bouagadadj@yahoo.fr', '+21350000000', 'Mr', ''),
+('', 1, 'DAHMANI', 'Zoubir', '1-1-1994', 'zzdahmani@yahoo.fr', '+21350000000', 'Mr', ''),
+('', 1, 'Hocine', 'Ablaoui', '1-1-1994', 'ablaouihocine@yahoo.fr', '+21350000000', 'Mr', ''),
+('', 1, 'Lakhal', 'Belarbi', '1-1-1994', 'lakehalbelarbi@gmail.com', '+21350000000', 'Mr', ''),
+('', 1, 'Ahmed', 'Medeghri', '1-1-1994', 'ahmed_medeghri@yahoo.com', '+21350000000', 'Mr', ''),
+('', 1, 'Amir', 'Abdessamad', '1-1-1994', 'amirabdessamad@yahoo.fr', '+21350000000', 'Mr', ''),
+('', 1, 'Soumia', 'Ould Ali', '1-1-1994', 'belmsou@yahoo.fr', '+21350000000', 'Mr', ''),
+('', 1, 'Hafida', 'Bendahmane', '1-1-1994', 'bendahmanehafida@yahoo.fr', '+21350000000', 'Mr', ''),
+('', 1, 'Benharrat', 'Belaidi', '1-1-1994', 'belaidibenharrat@yahoo.fr', '+21350000000', 'Mr', ''),
+('', 1, 'khira', 'limam', '1-1-1994', 'limam_khira@yahoo.fr', '+21350000000', 'Mr', ''),
+('', 1, 'Naima Ablaoui', 'Lahmar', '1-1-1994', 'lahmarnaima@yahoo.fr', '+21350000000', 'Mr', ''),
+('', 1, 'Mansoria', 'Saidani', '1-1-1994', 'saidaniman@yahoo.fr', '+21350000000', 'Mr', ''),
+('', 1, 'Mohand', 'Ouldali2', '1-1-1994', 'mohand_ouldalidz@yahoo.fr', '+21350000000', 'Mr', ''),
+('', 1, 'Hamid', 'Bouzit', '1-1-1994', 'hamid.bouzit@yahoo.fr', '+21350000000', 'Mr', ''),
+('', 1, 'Mustapha', 'Mohammedi', '1-1-1994', 'mustapha.mohammedi@gmail.com', '+21350000000', 'Mr', ''),
+('', 1, 'Mohammed', 'Kaid', '1-1-1994', 'mohammed.kaid@yahoo.com', '+21350000000', 'Mr', ''),
+('', 1, 'Diala', 'Horiya', '1-1-1994', 'diala_math@yahoo.fr', '+21350000000', 'Mr', ''),
+('', 1, 'Maamar', 'Andasmas', '1-1-1994', 'maamaths73@yahoo.fr', '+21350000000', 'Mr', ''),
+('', 1, 'Bekkouche', 'Zakaria', '1-1-1994', 'bekkouche_zakaria@yahoo.com', '+21350000000', 'Mr', '')

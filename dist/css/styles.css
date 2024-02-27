@@ -1,0 +1,138 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+
+}
+body{
+    font-family: sans-serif;
+    
+}
+
+#nav-bar {
+    position: sticky;
+    top: 0;
+    z-index: 10;
+    background-color: rgb(48, 47, 47); /* Replace 'your-desired-color' with the color you want */
+    padding-bottom: 15px;
+    padding-top: 15px;
+    
+    
+}
+.nav li a {
+    color:#fff !important ;
+    float: right;
+    text-align: left;
+}
+.nav li a:hover{
+    color:#1c86ff ;
+}
+/******************************************banner*******************************/
+.container-fluid{
+    background:  #39b3e6;
+}
+.navbar-brand span img {
+    
+    margin-left: -20px;
+}
+#carousel{
+    height: 100px;
+    padding-top: 100px;
+}
+#content{
+    background:  #39b3e6;
+    padding-bottom:50px ;
+    padding-top: 50px;
+}
+
+.btn.btn-outline-secondary {
+    margin-top: 8%;
+    width: 70%;
+    height: 50px ;
+    border-color: #fff;
+    background-color: none;
+    color: #fff;
+    border-radius: 5px;
+
+}
+/*******************************************************content********************************************/
+/*
+.btn.btn-outline-secondary:hover {
+    background-color:#fff;
+    color: #1c86ff;
+}
+
+.carousel-item:nth-child(1)::before,
+.carousel-item:nth-child(1)::after {
+    content: "Platforme pour La Gestion des plannings des enseignements "; 
+}
+
+.carousel-item:nth-child(2)::before,
+.carousel-item:nth-child(2)::after {
+    content: "Saisie et Controle "; 
+    
+    left: 70%; 
+    transform: translateX(-50%);
+}
+
+.carousel-item:nth-child(3)::before,
+.carousel-item:nth-child(3)::after {
+    content: "Extraction & Calcule"; 
+    
+    left: 50%;  
+    transform: translateX(40%);
+}
+
+.carousel-item::before,
+.carousel-item::after {
+    
+    font-size: 35px;
+    font-family: cursive ;
+    position: absolute;
+    top: 20px;  
+    background-color: rgba(0, 0, 0, 0.2);  
+    color: white; 
+    padding: 40px;
+    border-radius: 5px;
+    display: block;
+    opacity: 0;  
+    transition: opacity 0.3s ease-in-out;
+}
+.carousel-item:hover::before,
+.carousel-item:hover::after {
+    opacity: 1;  
+}*/
+
+/******************************************footer****************************************************/
+/*#footer{
+    background-image: linear-gradient(to right ,#1c86ff , #1c86ff);
+    color: #fff;
+}
+.footer-img{
+    width: 100%;
+}
+.footer-box{
+    padding: 20px;
+}
+hr{
+    background-color: #fff;
+
+}
+.copyright{
+    padding-bottom: 15px;
+    padding-top: 15px;
+    width:100%;
+    text-align: center;
+    color: #fff;
+}
+*/
+/******************************form******************************************/
+
+form{
+    background-color: #f8f6ff;
+    padding: 20px;
+    height: 450px ;
+    max-width: 400px; 
+    margin: 0 auto;
+    border: 3px solid #f1f1f1;
+}
